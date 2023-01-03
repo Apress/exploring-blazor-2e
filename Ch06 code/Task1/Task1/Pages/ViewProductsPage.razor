@@ -1,0 +1,34 @@
+﻿@page "/viewproductspage"
+@inject Services.ProductManagementService productmanagement
+<table>
+    <tbody>
+        @if (products != null)
+        {
+            @foreach (var item in products)
+            {
+        <tr>
+            <td>@item.id</td>
+            <td>@item.title</td>
+            <td>@item.description</td>
+            <td>@item.sellername</td>
+            <td>@item.value</td>
+            <td><button @onclick="@(async () => await Delete(item.id))">Delete</button></td>
+        </tr>
+            }
+        }
+        else
+        {
+        }
+    </tbody>
+</table>
+@code {
+    List<DataModels.ProductModel> products;
+    protected override async Task OnInitializedAsync()
+    {
+        products = await productmanagement.GetAllProductsAsync();
+    }
+    async Task Delete(Guid id)
+    {
+        await productmanagement.DeleteProductAsync(id);
+    }
+}

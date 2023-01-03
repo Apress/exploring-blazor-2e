@@ -1,0 +1,10 @@
+﻿@page "/"
+@inject IJSRuntime js
+<p><input @bind="examplevalue" /></p>
+<p><button @onclick="@(async () => { await  js.InvokeVoidAsync("localStorage.setItem","ExampleValue",examplevalue); })" >Set</button></p>
+<p><button @onclick="@(async () => { examplevalue = await js.InvokeAsync<string>("localStorage.getItem","ExampleValue"); })" >Get</button></p>
+<p>@examplevalue</p> 
+
+@code {
+    string examplevalue; 
+}

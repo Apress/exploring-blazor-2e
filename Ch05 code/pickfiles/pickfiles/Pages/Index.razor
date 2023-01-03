@@ -1,0 +1,24 @@
+﻿@page "/"
+
+<p>
+    <button onclick="document.getElementById('flpicker').click()">Pick</button>
+    <InputFile id="flpicker" OnChange="@(async (args) => await OnInputFileChange(args))" hidden multiple ></InputFile>
+    <p>@filesize</p>
+    <p>@filename</p>
+</p>
+
+@code {
+    long filesize;
+    string filename;
+
+    private async Task OnInputFileChange(InputFileChangeEventArgs e)
+    {
+        foreach (var File in e.GetMultipleFiles(e.FileCount))
+        {
+            filesize = File.Size;
+            filename = File.Name;
+
+            Stream str =  File.OpenReadStream(1000000, CancellationToken.None);
+        }
+    } 
+}

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "pS2KCuCtL8u7fabubWQk5+U50F65+5DmqpGCG1EcpOc=",
+  "Source": "Sessionstorageexample",
+  "BasePath": "_content/Sessionstorageexample",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Sessionstorageexample\\wwwroot",
+      "Source": "Sessionstorageexample",
+      "ContentRoot": "D:\\books\\blazor book revision\\blazor book rewrite\\c5\\code\\Sessionstorageexample\\Sessionstorageexample\\wwwroot\\",
+      "BasePath": "_content/Sessionstorageexample",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\books\\blazor book revision\\blazor book rewrite\\c5\\code\\Sessionstorageexample\\Sessionstorageexample\\wwwroot\\css\\site.css",
+      "SourceId": "Sessionstorageexample",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\books\\blazor book revision\\blazor book rewrite\\c5\\code\\Sessionstorageexample\\Sessionstorageexample\\wwwroot\\",
+      "BasePath": "_content/Sessionstorageexample",
+      "RelativePath": "css/site.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\site.css"
+    }
+  ]
+}

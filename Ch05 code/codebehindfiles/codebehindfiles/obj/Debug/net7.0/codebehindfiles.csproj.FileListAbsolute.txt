@@ -1,0 +1,62 @@
+D:\books\blazor book revision\blazor book rewrite\c5\code\codebehindfiles\codebehindfiles\bin\Debug\net7.0\appsettings.Development.json
+D:\books\blazor book revision\blazor book rewrite\c5\code\codebehindfiles\codebehindfiles\bin\Debug\net7.0\appsettings.json
+D:\books\blazor book revision\blazor book rewrite\c5\code\codebehindfiles\codebehindfiles\bin\Debug\net7.0\codebehindfiles.staticwebassets.runtime.json
+D:\books\blazor book revision\blazor book rewrite\c5\code\codebehindfiles\codebehindfiles\bin\Debug\net7.0\codebehindfiles.exe
+D:\books\blazor book revision\blazor book rewrite\c5\code\codebehindfiles\codebehindfiles\bin\Debug\net7.0\codebehindfiles.deps.json
+D:\books\blazor book revision\blazor book rewrite\c5\code\codebehindfiles\codebehindfiles\bin\Debug\net7.0\codebehindfiles.runtimeconfig.json
+D:\books\blazor book revision\blazor book rewrite\c5\code\codebehindfiles\codebehindfiles\bin\Debug\net7.0\codebehindfiles.dll
+D:\books\blazor book revision\blazor book rewrite\c5\code\codebehindfiles\codebehindfiles\bin\Debug\net7.0\codebehindfiles.pdb
+D:\books\blazor book revision\blazor book rewrite\c5\code\codebehindfiles\codebehindfiles\obj\Debug\net7.0\codebehindfiles.csproj.AssemblyReference.cache
+D:\books\blazor book revision\blazor book rewrite\c5\code\codebehindfiles\codebehindfiles\obj\Debug\net7.0\codebehindfiles.GeneratedMSBuildEditorConfig.editorconfig
+D:\books\blazor book revision\blazor book rewrite\c5\code\codebehindfiles\codebehindfiles\obj\Debug\net7.0\codebehindfiles.AssemblyInfoInputs.cache
+D:\books\blazor book revision\blazor book rewrite\c5\code\codebehindfiles\codebehindfiles\obj\Debug\net7.0\codebehindfiles.AssemblyInfo.cs
+D:\books\blazor book revision\blazor book rewrite\c5\code\codebehindfiles\codebehindfiles\obj\Debug\net7.0\codebehindfiles.csproj.CoreCompileInputs.cache
+D:\books\blazor book revision\blazor book rewrite\c5\code\codebehindfiles\codebehindfiles\obj\Debug\net7.0\codebehindfiles.MvcApplicationPartsAssemblyInfo.cache
+D:\books\blazor book revision\blazor book rewrite\c5\code\codebehindfiles\codebehindfiles\obj\Debug\net7.0\codebehindfiles.RazorAssemblyInfo.cache
+D:\books\blazor book revision\blazor book rewrite\c5\code\codebehindfiles\codebehindfiles\obj\Debug\net7.0\codebehindfiles.RazorAssemblyInfo.cs
+D:\books\blazor book revision\blazor book rewrite\c5\code\codebehindfiles\codebehindfiles\obj\Debug\net7.0\staticwebassets\msbuild.codebehindfiles.Microsoft.AspNetCore.StaticWebAssets.props
+D:\books\blazor book revision\blazor book rewrite\c5\code\codebehindfiles\codebehindfiles\obj\Debug\net7.0\staticwebassets\msbuild.build.codebehindfiles.props
+D:\books\blazor book revision\blazor book rewrite\c5\code\codebehindfiles\codebehindfiles\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.codebehindfiles.props
+D:\books\blazor book revision\blazor book rewrite\c5\code\codebehindfiles\codebehindfiles\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.codebehindfiles.props
+D:\books\blazor book revision\blazor book rewrite\c5\code\codebehindfiles\codebehindfiles\obj\Debug\net7.0\staticwebassets.pack.json
+D:\books\blazor book revision\blazor book rewrite\c5\code\codebehindfiles\codebehindfiles\obj\Debug\net7.0\staticwebassets.build.json
+D:\books\blazor book revision\blazor book rewrite\c5\code\codebehindfiles\codebehindfiles\obj\Debug\net7.0\staticwebassets.development.json
+D:\books\blazor book revision\blazor book rewrite\c5\code\codebehindfiles\codebehindfiles\obj\Debug\net7.0\scopedcss\Pages\Component1.razor.rz.scp.css
+D:\books\blazor book revision\blazor book rewrite\c5\code\codebehindfiles\codebehindfiles\obj\Debug\net7.0\scopedcss\bundle\codebehindfiles.styles.css
+D:\books\blazor book revision\blazor book rewrite\c5\code\codebehindfiles\codebehindfiles\obj\Debug\net7.0\scopedcss\projectbundle\codebehindfiles.bundle.scp.css
+D:\books\blazor book revision\blazor book rewrite\c5\code\codebehindfiles\codebehindfiles\obj\Debug\net7.0\codebehindfiles.dll
+D:\books\blazor book revision\blazor book rewrite\c5\code\codebehindfiles\codebehindfiles\obj\Debug\net7.0\refint\codebehindfiles.dll
+D:\books\blazor book revision\blazor book rewrite\c5\code\codebehindfiles\codebehindfiles\obj\Debug\net7.0\codebehindfiles.pdb
+D:\books\blazor book revision\blazor book rewrite\c5\code\codebehindfiles\codebehindfiles\obj\Debug\net7.0\codebehindfiles.genruntimeconfig.cache
+D:\books\blazor book revision\blazor book rewrite\c5\code\codebehindfiles\codebehindfiles\obj\Debug\net7.0\ref\codebehindfiles.dll
+D:\books\blazor book revision\after backup\blazor book rewrite\blazor book rewrite\c5\code\codebehindfiles\codebehindfiles\bin\Debug\net7.0\appsettings.Development.json
+D:\books\blazor book revision\after backup\blazor book rewrite\blazor book rewrite\c5\code\codebehindfiles\codebehindfiles\bin\Debug\net7.0\appsettings.json
+D:\books\blazor book revision\after backup\blazor book rewrite\blazor book rewrite\c5\code\codebehindfiles\codebehindfiles\bin\Debug\net7.0\codebehindfiles.staticwebassets.runtime.json
+D:\books\blazor book revision\after backup\blazor book rewrite\blazor book rewrite\c5\code\codebehindfiles\codebehindfiles\bin\Debug\net7.0\codebehindfiles.exe
+D:\books\blazor book revision\after backup\blazor book rewrite\blazor book rewrite\c5\code\codebehindfiles\codebehindfiles\bin\Debug\net7.0\codebehindfiles.deps.json
+D:\books\blazor book revision\after backup\blazor book rewrite\blazor book rewrite\c5\code\codebehindfiles\codebehindfiles\bin\Debug\net7.0\codebehindfiles.runtimeconfig.json
+D:\books\blazor book revision\after backup\blazor book rewrite\blazor book rewrite\c5\code\codebehindfiles\codebehindfiles\bin\Debug\net7.0\codebehindfiles.dll
+D:\books\blazor book revision\after backup\blazor book rewrite\blazor book rewrite\c5\code\codebehindfiles\codebehindfiles\bin\Debug\net7.0\codebehindfiles.pdb
+D:\books\blazor book revision\after backup\blazor book rewrite\blazor book rewrite\c5\code\codebehindfiles\codebehindfiles\obj\Debug\net7.0\codebehindfiles.csproj.AssemblyReference.cache
+D:\books\blazor book revision\after backup\blazor book rewrite\blazor book rewrite\c5\code\codebehindfiles\codebehindfiles\obj\Debug\net7.0\codebehindfiles.GeneratedMSBuildEditorConfig.editorconfig
+D:\books\blazor book revision\after backup\blazor book rewrite\blazor book rewrite\c5\code\codebehindfiles\codebehindfiles\obj\Debug\net7.0\codebehindfiles.AssemblyInfoInputs.cache
+D:\books\blazor book revision\after backup\blazor book rewrite\blazor book rewrite\c5\code\codebehindfiles\codebehindfiles\obj\Debug\net7.0\codebehindfiles.AssemblyInfo.cs
+D:\books\blazor book revision\after backup\blazor book rewrite\blazor book rewrite\c5\code\codebehindfiles\codebehindfiles\obj\Debug\net7.0\codebehindfiles.csproj.CoreCompileInputs.cache
+D:\books\blazor book revision\after backup\blazor book rewrite\blazor book rewrite\c5\code\codebehindfiles\codebehindfiles\obj\Debug\net7.0\codebehindfiles.MvcApplicationPartsAssemblyInfo.cache
+D:\books\blazor book revision\after backup\blazor book rewrite\blazor book rewrite\c5\code\codebehindfiles\codebehindfiles\obj\Debug\net7.0\codebehindfiles.RazorAssemblyInfo.cache
+D:\books\blazor book revision\after backup\blazor book rewrite\blazor book rewrite\c5\code\codebehindfiles\codebehindfiles\obj\Debug\net7.0\codebehindfiles.RazorAssemblyInfo.cs
+D:\books\blazor book revision\after backup\blazor book rewrite\blazor book rewrite\c5\code\codebehindfiles\codebehindfiles\obj\Debug\net7.0\staticwebassets\msbuild.codebehindfiles.Microsoft.AspNetCore.StaticWebAssets.props
+D:\books\blazor book revision\after backup\blazor book rewrite\blazor book rewrite\c5\code\codebehindfiles\codebehindfiles\obj\Debug\net7.0\staticwebassets\msbuild.build.codebehindfiles.props
+D:\books\blazor book revision\after backup\blazor book rewrite\blazor book rewrite\c5\code\codebehindfiles\codebehindfiles\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.codebehindfiles.props
+D:\books\blazor book revision\after backup\blazor book rewrite\blazor book rewrite\c5\code\codebehindfiles\codebehindfiles\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.codebehindfiles.props
+D:\books\blazor book revision\after backup\blazor book rewrite\blazor book rewrite\c5\code\codebehindfiles\codebehindfiles\obj\Debug\net7.0\staticwebassets.pack.json
+D:\books\blazor book revision\after backup\blazor book rewrite\blazor book rewrite\c5\code\codebehindfiles\codebehindfiles\obj\Debug\net7.0\staticwebassets.build.json
+D:\books\blazor book revision\after backup\blazor book rewrite\blazor book rewrite\c5\code\codebehindfiles\codebehindfiles\obj\Debug\net7.0\staticwebassets.development.json
+D:\books\blazor book revision\after backup\blazor book rewrite\blazor book rewrite\c5\code\codebehindfiles\codebehindfiles\obj\Debug\net7.0\scopedcss\Pages\Component1.razor.rz.scp.css
+D:\books\blazor book revision\after backup\blazor book rewrite\blazor book rewrite\c5\code\codebehindfiles\codebehindfiles\obj\Debug\net7.0\scopedcss\bundle\codebehindfiles.styles.css
+D:\books\blazor book revision\after backup\blazor book rewrite\blazor book rewrite\c5\code\codebehindfiles\codebehindfiles\obj\Debug\net7.0\scopedcss\projectbundle\codebehindfiles.bundle.scp.css
+D:\books\blazor book revision\after backup\blazor book rewrite\blazor book rewrite\c5\code\codebehindfiles\codebehindfiles\obj\Debug\net7.0\codebehindfiles.dll
+D:\books\blazor book revision\after backup\blazor book rewrite\blazor book rewrite\c5\code\codebehindfiles\codebehindfiles\obj\Debug\net7.0\refint\codebehindfiles.dll
+D:\books\blazor book revision\after backup\blazor book rewrite\blazor book rewrite\c5\code\codebehindfiles\codebehindfiles\obj\Debug\net7.0\codebehindfiles.pdb
+D:\books\blazor book revision\after backup\blazor book rewrite\blazor book rewrite\c5\code\codebehindfiles\codebehindfiles\obj\Debug\net7.0\codebehindfiles.genruntimeconfig.cache
+D:\books\blazor book revision\after backup\blazor book rewrite\blazor book rewrite\c5\code\codebehindfiles\codebehindfiles\obj\Debug\net7.0\ref\codebehindfiles.dll

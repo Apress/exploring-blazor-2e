@@ -1,0 +1,9 @@
+﻿@page "/"
+
+<p><ExampleComponent @bind-ExampleValue="@result" @bind-ExampleValue:event="SecondEvent" ></ExampleComponent></p>
+<p>@result</p>
+
+@code {
+    string result;
+     
+}

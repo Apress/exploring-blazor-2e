@@ -1,0 +1,59 @@
+﻿@page "/"
+
+@if (status == 3)
+{
+    <p>Seconds: <input value="@timeleft.Seconds" type="number" @oninput="@((args) => { timeleft = new TimeSpan(0,0,Convert.ToInt32(args.Value)); })" /></p>
+
+    <p><button @onclick="@( async () => { status = 1; RunTimer(); })">Start</button></p>
+}
+@if (status == 1 || status == 2)
+{
+
+    @if (status == 1)
+    {
+        <p><button @onclick="@(() => { status = 2; })">Pause</button></p>
+    }
+
+    @if (status == 2)
+    {
+        <p><button @onclick="@(() => { status = 1; })">Resume</button></p>
+    }
+
+    <p><button @onclick="@(() => { status = 3; timeleft = new TimeSpan(0, 0, 0); })">Stop</button></p>
+
+    <p>Time left: @timeleft</p>
+}
+
+
+
+@code {
+
+    TimeSpan timeleft;
+
+    // 1- running, 2 - paused, 3 - stopped
+    int status = 3;
+
+
+    async Task RunTimer()
+    {
+        while (status == 1 || status == 2)
+        {
+            await Task.Delay(1000);
+            if (status == 1)
+            {
+                timeleft = timeleft.Subtract(new TimeSpan(0, 0, 1));
+                StateHasChanged();
+                if (timeleft == new TimeSpan(0, 0, 0))
+                {
+
+                    status = 3;
+                    StateHasChanged();
+                    break;
+                }
+            }
+        }
+    }
+
+
+
+}

@@ -1,0 +1,59 @@
+D:\books\blazor book revision\blazor book rewrite\c4\apicallsexamples\exampleapi\bin\Debug\net6.0\appsettings.Development.json
+D:\books\blazor book revision\blazor book rewrite\c4\apicallsexamples\exampleapi\bin\Debug\net6.0\appsettings.json
+D:\books\blazor book revision\blazor book rewrite\c4\apicallsexamples\exampleapi\bin\Debug\net6.0\exampleapi.exe
+D:\books\blazor book revision\blazor book rewrite\c4\apicallsexamples\exampleapi\bin\Debug\net6.0\exampleapi.deps.json
+D:\books\blazor book revision\blazor book rewrite\c4\apicallsexamples\exampleapi\bin\Debug\net6.0\exampleapi.runtimeconfig.json
+D:\books\blazor book revision\blazor book rewrite\c4\apicallsexamples\exampleapi\bin\Debug\net6.0\exampleapi.dll
+D:\books\blazor book revision\blazor book rewrite\c4\apicallsexamples\exampleapi\bin\Debug\net6.0\exampleapi.pdb
+D:\books\blazor book revision\blazor book rewrite\c4\apicallsexamples\exampleapi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\books\blazor book revision\blazor book rewrite\c4\apicallsexamples\exampleapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\books\blazor book revision\blazor book rewrite\c4\apicallsexamples\exampleapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\books\blazor book revision\blazor book rewrite\c4\apicallsexamples\exampleapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\books\blazor book revision\blazor book rewrite\c4\apicallsexamples\exampleapi\obj\Debug\net6.0\exampleapi.csproj.AssemblyReference.cache
+D:\books\blazor book revision\blazor book rewrite\c4\apicallsexamples\exampleapi\obj\Debug\net6.0\exampleapi.GeneratedMSBuildEditorConfig.editorconfig
+D:\books\blazor book revision\blazor book rewrite\c4\apicallsexamples\exampleapi\obj\Debug\net6.0\exampleapi.AssemblyInfoInputs.cache
+D:\books\blazor book revision\blazor book rewrite\c4\apicallsexamples\exampleapi\obj\Debug\net6.0\exampleapi.AssemblyInfo.cs
+D:\books\blazor book revision\blazor book rewrite\c4\apicallsexamples\exampleapi\obj\Debug\net6.0\exampleapi.csproj.CoreCompileInputs.cache
+D:\books\blazor book revision\blazor book rewrite\c4\apicallsexamples\exampleapi\obj\Debug\net6.0\exampleapi.MvcApplicationPartsAssemblyInfo.cs
+D:\books\blazor book revision\blazor book rewrite\c4\apicallsexamples\exampleapi\obj\Debug\net6.0\exampleapi.MvcApplicationPartsAssemblyInfo.cache
+D:\books\blazor book revision\blazor book rewrite\c4\apicallsexamples\exampleapi\obj\Debug\net6.0\staticwebassets.build.json
+D:\books\blazor book revision\blazor book rewrite\c4\apicallsexamples\exampleapi\obj\Debug\net6.0\staticwebassets.development.json
+D:\books\blazor book revision\blazor book rewrite\c4\apicallsexamples\exampleapi\obj\Debug\net6.0\scopedcss\bundle\exampleapi.styles.css
+D:\books\blazor book revision\blazor book rewrite\c4\apicallsexamples\exampleapi\obj\Debug\net6.0\exampleapi.csproj.CopyComplete
+D:\books\blazor book revision\blazor book rewrite\c4\apicallsexamples\exampleapi\obj\Debug\net6.0\exampleapi.dll
+D:\books\blazor book revision\blazor book rewrite\c4\apicallsexamples\exampleapi\obj\Debug\net6.0\refint\exampleapi.dll
+D:\books\blazor book revision\blazor book rewrite\c4\apicallsexamples\exampleapi\obj\Debug\net6.0\exampleapi.pdb
+D:\books\blazor book revision\blazor book rewrite\c4\apicallsexamples\exampleapi\obj\Debug\net6.0\exampleapi.genruntimeconfig.cache
+D:\books\blazor book revision\blazor book rewrite\c4\apicallsexamples\exampleapi\obj\Debug\net6.0\ref\exampleapi.dll
+D:\books\blazor book revision\after backup\blazor book rewrite\blazor book rewrite\c4\apicallsexamples\exampleapi\bin\Debug\net6.0\appsettings.Development.json
+D:\books\blazor book revision\after backup\blazor book rewrite\blazor book rewrite\c4\apicallsexamples\exampleapi\bin\Debug\net6.0\appsettings.json
+D:\books\blazor book revision\after backup\blazor book rewrite\blazor book rewrite\c4\apicallsexamples\exampleapi\bin\Debug\net6.0\exampleapi.exe
+D:\books\blazor book revision\after backup\blazor book rewrite\blazor book rewrite\c4\apicallsexamples\exampleapi\bin\Debug\net6.0\exampleapi.deps.json
+D:\books\blazor book revision\after backup\blazor book rewrite\blazor book rewrite\c4\apicallsexamples\exampleapi\bin\Debug\net6.0\exampleapi.runtimeconfig.json
+D:\books\blazor book revision\after backup\blazor book rewrite\blazor book rewrite\c4\apicallsexamples\exampleapi\bin\Debug\net6.0\exampleapi.dll
+D:\books\blazor book revision\after backup\blazor book rewrite\blazor book rewrite\c4\apicallsexamples\exampleapi\bin\Debug\net6.0\exampleapi.pdb
+D:\books\blazor book revision\after backup\blazor book rewrite\blazor book rewrite\c4\apicallsexamples\exampleapi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\books\blazor book revision\after backup\blazor book rewrite\blazor book rewrite\c4\apicallsexamples\exampleapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\books\blazor book revision\after backup\blazor book rewrite\blazor book rewrite\c4\apicallsexamples\exampleapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\books\blazor book revision\after backup\blazor book rewrite\blazor book rewrite\c4\apicallsexamples\exampleapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\books\blazor book revision\after backup\blazor book rewrite\blazor book rewrite\c4\apicallsexamples\exampleapi\obj\Debug\net6.0\exampleapi.csproj.AssemblyReference.cache
+D:\books\blazor book revision\after backup\blazor book rewrite\blazor book rewrite\c4\apicallsexamples\exampleapi\obj\Debug\net6.0\exampleapi.GeneratedMSBuildEditorConfig.editorconfig
+D:\books\blazor book revision\after backup\blazor book rewrite\blazor book rewrite\c4\apicallsexamples\exampleapi\obj\Debug\net6.0\exampleapi.AssemblyInfoInputs.cache
+D:\books\blazor book revision\after backup\blazor book rewrite\blazor book rewrite\c4\apicallsexamples\exampleapi\obj\Debug\net6.0\exampleapi.AssemblyInfo.cs
+D:\books\blazor book revision\after backup\blazor book rewrite\blazor book rewrite\c4\apicallsexamples\exampleapi\obj\Debug\net6.0\exampleapi.csproj.CoreCompileInputs.cache
+D:\books\blazor book revision\after backup\blazor book rewrite\blazor book rewrite\c4\apicallsexamples\exampleapi\obj\Debug\net6.0\exampleapi.MvcApplicationPartsAssemblyInfo.cs
+D:\books\blazor book revision\after backup\blazor book rewrite\blazor book rewrite\c4\apicallsexamples\exampleapi\obj\Debug\net6.0\exampleapi.MvcApplicationPartsAssemblyInfo.cache
+D:\books\blazor book revision\after backup\blazor book rewrite\blazor book rewrite\c4\apicallsexamples\exampleapi\obj\Debug\net6.0\staticwebassets\msbuild.exampleapi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\books\blazor book revision\after backup\blazor book rewrite\blazor book rewrite\c4\apicallsexamples\exampleapi\obj\Debug\net6.0\staticwebassets\msbuild.build.exampleapi.props
+D:\books\blazor book revision\after backup\blazor book rewrite\blazor book rewrite\c4\apicallsexamples\exampleapi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.exampleapi.props
+D:\books\blazor book revision\after backup\blazor book rewrite\blazor book rewrite\c4\apicallsexamples\exampleapi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.exampleapi.props
+D:\books\blazor book revision\after backup\blazor book rewrite\blazor book rewrite\c4\apicallsexamples\exampleapi\obj\Debug\net6.0\staticwebassets.pack.json
+D:\books\blazor book revision\after backup\blazor book rewrite\blazor book rewrite\c4\apicallsexamples\exampleapi\obj\Debug\net6.0\staticwebassets.build.json
+D:\books\blazor book revision\after backup\blazor book rewrite\blazor book rewrite\c4\apicallsexamples\exampleapi\obj\Debug\net6.0\staticwebassets.development.json
+D:\books\blazor book revision\after backup\blazor book rewrite\blazor book rewrite\c4\apicallsexamples\exampleapi\obj\Debug\net6.0\scopedcss\bundle\exampleapi.styles.css
+D:\books\blazor book revision\after backup\blazor book rewrite\blazor book rewrite\c4\apicallsexamples\exampleapi\obj\Debug\net6.0\exampleapi.csproj.CopyComplete
+D:\books\blazor book revision\after backup\blazor book rewrite\blazor book rewrite\c4\apicallsexamples\exampleapi\obj\Debug\net6.0\exampleapi.dll
+D:\books\blazor book revision\after backup\blazor book rewrite\blazor book rewrite\c4\apicallsexamples\exampleapi\obj\Debug\net6.0\refint\exampleapi.dll
+D:\books\blazor book revision\after backup\blazor book rewrite\blazor book rewrite\c4\apicallsexamples\exampleapi\obj\Debug\net6.0\exampleapi.pdb
+D:\books\blazor book revision\after backup\blazor book rewrite\blazor book rewrite\c4\apicallsexamples\exampleapi\obj\Debug\net6.0\exampleapi.genruntimeconfig.cache
+D:\books\blazor book revision\after backup\blazor book rewrite\blazor book rewrite\c4\apicallsexamples\exampleapi\obj\Debug\net6.0\ref\exampleapi.dll

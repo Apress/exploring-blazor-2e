@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "localstorageclient", "localstorageclient\localstorageclient.csproj", "{5465CA65-AFB0-438D-8D5F-0D9F776B3384}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5465CA65-AFB0-438D-8D5F-0D9F776B3384}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5465CA65-AFB0-438D-8D5F-0D9F776B3384}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5465CA65-AFB0-438D-8D5F-0D9F776B3384}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5465CA65-AFB0-438D-8D5F-0D9F776B3384}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2EF52E1C-4CA4-40A4-944B-7533E624673E}
+	EndGlobalSection
+EndGlobal

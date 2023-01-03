@@ -1,0 +1,26 @@
+﻿@page "/"
+
+<p>@fordisplay</p>
+
+@code {
+    int fordisplay;
+
+
+    protected override Task OnInitializedAsync()
+    {
+        _ = BackgroundTask();
+        return base.OnInitializedAsync();
+    }
+
+    async Task BackgroundTask()
+    {
+        var rnd = new Random();
+        while (true)
+        {
+            await Task.Delay(2000);
+
+            fordisplay = rnd.Next(1, 1000);
+        StateHasChanged();
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\books\\blazor book revision\\blazor book rewrite\\c5\\code\\Sessionstorageexample\\Sessionstorageexample\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Sessionstorageexample.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Sessionstorageexample.props",
+      "PackagePath": "build\\Sessionstorageexample.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Sessionstorageexample.props",
+      "PackagePath": "buildMultiTargeting\\Sessionstorageexample.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Sessionstorageexample.props",
+      "PackagePath": "buildTransitive\\Sessionstorageexample.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

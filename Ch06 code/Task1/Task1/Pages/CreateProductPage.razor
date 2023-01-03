@@ -1,0 +1,29 @@
+﻿@page "/createproductpage"
+@inject Services.ProductManagementService productmanagement
+
+<p>title</p>
+<p><input @bind="@producttoinsert.title"></p>
+<p>seller name</p>
+<p><input @bind="@producttoinsert.sellername"></p>
+<p>description</p>
+<p><textarea @bind="@producttoinsert.description" /></p>
+<p>value</p>
+<p><input @bind="@producttoinsert.value"></p>
+<p><button @onclick="@(async () => await InsertNewProduct())">Insert a product</button></p>
+<p>@result</p>
+@code {
+        string result;
+        DataModels.ProductModel producttoinsert = new DataModels.ProductModel() { id = Guid.NewGuid() };
+    async Task InsertNewProduct()
+    {
+        if (await productmanagement.CreateProductAsync(producttoinsert))
+        {
+            result = "product created";
+            producttoinsert = new DataModels.ProductModel();
+        }
+        else
+        {
+            result = "failed to create";
+        }
+    }
+}

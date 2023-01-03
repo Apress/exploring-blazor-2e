@@ -1,0 +1,47 @@
+﻿@page "/mainpage"
+
+<p>Current score:
+@{
+    int currentscore = 0;
+}
+@foreach (var item in PointsList)
+{
+    currentscore += item.value;
+}
+    <label>@currentscore</label>
+    </p>
+<p>Total fouls: @FoulList.Count</p>
+<p>Total rebounds: @ReboundList.Count</p>
+<p>Total blocks: @BlockList.Count</p>
+<p><button @onclick="@(() => AddPoint(1))">Add 1 pt</button></p>
+<p><button @onclick="@(() => AddPoint(2))">Add 2 pt</button></p>
+<p><button @onclick="@(() => AddPoint(3))">Add 3 pt</button></p>
+<p><button @onclick="@(() => AddFoul())">Add Foul</button></p>
+<p><button @onclick="@(() => AddRebound())">Add rebound</button></p>
+<p><button @onclick="@(() => AddBlock())">Add block</button></p>
+@code {
+    [Parameter]
+    public int team { get; set; } = 1;// A - 1 or B - 2
+    [Parameter]
+    public Guid gameid { get; set; }
+    List<DataModels.PointScoredModel> PointsList = new List<DataModels.PointScoredModel>();
+    List<DataModels.FoulModel> FoulList = new List<DataModels.FoulModel>();
+    List<DataModels.BlockModel> BlockList = new List<DataModels.BlockModel>();
+    List<DataModels.ReboundModel> ReboundList = new List<DataModels.ReboundModel>();
+    void AddPoint(int val)
+    {
+        PointsList.Add(new DataModels.PointScoredModel { id = Guid.NewGuid(), value = val });
+    }
+    void AddFoul()
+    {
+        FoulList.Add(new DataModels.FoulModel() { id = Guid.NewGuid() });
+    }
+    void AddBlock()
+    {
+        BlockList.Add(new DataModels.BlockModel() { id = Guid.NewGuid() });
+    }
+    void AddRebound()
+    {
+        ReboundList.Add(new DataModels.ReboundModel() { id = Guid.NewGuid() });
+    }
+}

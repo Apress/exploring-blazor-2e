@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\books\\blazor book revision\\blazor book rewrite\\c6\\code\\Task2\\Task2\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Task2.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Task2.props",
+      "PackagePath": "build\\Task2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Task2.props",
+      "PackagePath": "buildMultiTargeting\\Task2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Task2.props",
+      "PackagePath": "buildTransitive\\Task2.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

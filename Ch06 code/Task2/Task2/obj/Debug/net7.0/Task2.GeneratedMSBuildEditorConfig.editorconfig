@@ -1,0 +1,36 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Task2
+build_property.RootNamespace = Task2
+build_property.ProjectDir = D:\books\blazor book revision\after backup\blazor book rewrite\blazor book rewrite\c6\code\Task2\Task2\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\books\blazor book revision\after backup\blazor book rewrite\blazor book rewrite\c6\code\Task2\Task2
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/books/blazor book revision/after backup/blazor book rewrite/blazor book rewrite/c6/code/Task2/Task2/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/books/blazor book revision/after backup/blazor book rewrite/blazor book rewrite/c6/code/Task2/Task2/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = TWFpbkxheW91dC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/books/blazor book revision/after backup/blazor book rewrite/blazor book rewrite/c6/code/Task2/Task2/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/books/blazor book revision/after backup/blazor book rewrite/blazor book rewrite/c6/code/Task2/Task2/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/books/blazor book revision/after backup/blazor book rewrite/blazor book rewrite/c6/code/Task2/Task2/Pages/_Host.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 

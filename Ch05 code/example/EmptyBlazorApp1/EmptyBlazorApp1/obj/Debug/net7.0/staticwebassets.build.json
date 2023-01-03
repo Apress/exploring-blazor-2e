@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "+wh1XRQUHpCTexpc5peNBxc79LdqWzK4pqp5EhASJLQ=",
+  "Source": "EmptyBlazorApp1",
+  "BasePath": "_content/EmptyBlazorApp1",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "EmptyBlazorApp1\\wwwroot",
+      "Source": "EmptyBlazorApp1",
+      "ContentRoot": "D:\\books\\blazor book revision\\blazor book rewrite\\c5\\code\\example\\EmptyBlazorApp1\\EmptyBlazorApp1\\wwwroot\\",
+      "BasePath": "_content/EmptyBlazorApp1",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\books\\blazor book revision\\blazor book rewrite\\c5\\code\\example\\EmptyBlazorApp1\\EmptyBlazorApp1\\wwwroot\\css\\site.css",
+      "SourceId": "EmptyBlazorApp1",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\books\\blazor book revision\\blazor book rewrite\\c5\\code\\example\\EmptyBlazorApp1\\EmptyBlazorApp1\\wwwroot\\",
+      "BasePath": "_content/EmptyBlazorApp1",
+      "RelativePath": "css/site.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\site.css"
+    }
+  ]
+}

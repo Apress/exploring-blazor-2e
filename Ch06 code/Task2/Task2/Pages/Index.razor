@@ -1,0 +1,14 @@
+﻿@page "/"
+<div style="width:50%;float:left;">
+    <MainPage team="1" gameid="@gameid" ></MainPage>
+</div>
+<div style="width:50%;float:left;">
+    <MainPage team="2" gameid="@gameid" ></MainPage>
+</div>
+@code {
+Guid gameid;
+protected override Task OnInitializedAsync() {
+    gameid = Guid.NewGuid();
+    return base.OnInitializedAsync();
+}
+}

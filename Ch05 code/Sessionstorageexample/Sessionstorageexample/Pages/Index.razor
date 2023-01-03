@@ -1,0 +1,12 @@
+﻿@page "/"
+@using Microsoft.AspNetCore.Components.Server.ProtectedBrowserStorage
+@inject ProtectedLocalStorage  storage
+
+<p><input @bind="examplevalue" /></p>
+<p><button @onclick="@(async () => { await  storage.SetAsync("ExampleValue",examplevalue); })" >Set</button></p>
+<p><button @onclick="@(async () => { examplevalue = (await  storage.GetAsync<string>("ExampleValue")).Value; })" >Get</button></p>
+<p>@examplevalue</p> 
+
+@code {
+    string examplevalue; 
+}

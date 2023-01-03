@@ -1,0 +1,31 @@
+﻿@page "/"
+@inject HttpClient http
+<p><button @onclick="@RequestData" >Request data</button></p>
+<p>Result: @result</p>
+<p><button @onclick="@SendData" >Send data</button></p>
+
+
+@code {
+   
+    string result;
+
+    DataToSend datatosend = new DataToSend();
+
+    async Task RequestData()
+    {
+        result = await http.GetFromJsonAsync<string>("testget");
+    }
+
+
+    async Task SendData()
+    {
+        datatosend.val2 = true;
+        result = await (await http.PostAsJsonAsync<DataToSend>("/testget",datatosend)).Content.ReadFromJsonAsync<string>();
+    }
+
+    class DataToSend
+    {
+        public string val1 { get; set; }
+        public bool val2 { get; set; }
+    }
+}

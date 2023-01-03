@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "Hash": "8ncs32okJCg4r07q77zFs5ffNM4Gv4NorrbC90MUud0=",
+  "Source": "codebehindfiles",
+  "BasePath": "_content/codebehindfiles",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "codebehindfiles\\wwwroot",
+      "Source": "codebehindfiles",
+      "ContentRoot": "D:\\books\\blazor book revision\\after backup\\blazor book rewrite\\blazor book rewrite\\c5\\code\\codebehindfiles\\codebehindfiles\\wwwroot\\",
+      "BasePath": "_content/codebehindfiles",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\books\\blazor book revision\\after backup\\blazor book rewrite\\blazor book rewrite\\c5\\code\\codebehindfiles\\codebehindfiles\\obj\\Debug\\net7.0\\scopedcss\\bundle\\codebehindfiles.styles.css",
+      "SourceId": "codebehindfiles",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\books\\blazor book revision\\after backup\\blazor book rewrite\\blazor book rewrite\\c5\\code\\codebehindfiles\\codebehindfiles\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/codebehindfiles",
+      "RelativePath": "codebehindfiles.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\books\\blazor book revision\\after backup\\blazor book rewrite\\blazor book rewrite\\c5\\code\\codebehindfiles\\codebehindfiles\\obj\\Debug\\net7.0\\scopedcss\\bundle\\codebehindfiles.styles.css"
+    },
+    {
+      "Identity": "D:\\books\\blazor book revision\\after backup\\blazor book rewrite\\blazor book rewrite\\c5\\code\\codebehindfiles\\codebehindfiles\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\codebehindfiles.bundle.scp.css",
+      "SourceId": "codebehindfiles",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\books\\blazor book revision\\after backup\\blazor book rewrite\\blazor book rewrite\\c5\\code\\codebehindfiles\\codebehindfiles\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/codebehindfiles",
+      "RelativePath": "codebehindfiles.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\books\\blazor book revision\\after backup\\blazor book rewrite\\blazor book rewrite\\c5\\code\\codebehindfiles\\codebehindfiles\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\codebehindfiles.bundle.scp.css"
+    },
+    {
+      "Identity": "D:\\books\\blazor book revision\\after backup\\blazor book rewrite\\blazor book rewrite\\c5\\code\\codebehindfiles\\codebehindfiles\\wwwroot\\css\\site.css",
+      "SourceId": "codebehindfiles",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\books\\blazor book revision\\after backup\\blazor book rewrite\\blazor book rewrite\\c5\\code\\codebehindfiles\\codebehindfiles\\wwwroot\\",
+      "BasePath": "_content/codebehindfiles",
+      "RelativePath": "css/site.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\site.css"
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\books\\blazor book revision\\after backup\\blazor book rewrite\\blazor book rewrite\\c4\\apicallsexamples\\apicallsexamples\\bin\\Debug\\net6.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "D:\\books\\blazor book revision\\after backup\\blazor book rewrite\\blazor book rewrite\\c4\\apicallsexamples\\apicallsexamples\\obj\\Debug\\net6.0\\build-gz\\J9861Kj+.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "D:\\books\\blazor book revision\\after backup\\blazor book rewrite\\blazor book rewrite\\c4\\apicallsexamples\\apicallsexamples\\obj\\Debug\\net6.0\\scopedcss\\bundle\\apicallsexamples.styles.css",
+      "PackagePath": "staticwebassets\\apicallsexamples.styles.css"
+    },
+    {
+      "Id": "D:\\books\\blazor book revision\\after backup\\blazor book rewrite\\blazor book rewrite\\c4\\apicallsexamples\\apicallsexamples\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "D:\\books\\blazor book revision\\after backup\\blazor book rewrite\\blazor book rewrite\\c4\\apicallsexamples\\apicallsexamples\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\books\\blazor book revision\\after backup\\blazor book rewrite\\blazor book rewrite\\c4\\apicallsexamples\\apicallsexamples\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\books\\blazor book revision\\after backup\\blazor book rewrite\\blazor book rewrite\\c4\\apicallsexamples\\apicallsexamples\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "D:\\books\\blazor book revision\\after backup\\blazor book rewrite\\blazor book rewrite\\c4\\apicallsexamples\\apicallsexamples\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "D:\\books\\blazor book revision\\after backup\\blazor book rewrite\\blazor book rewrite\\c4\\apicallsexamples\\apicallsexamples\\wwwroot\\css\\open-iconic\\README.md",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\README.md"
+    },
+    {
+      "Id": "D:\\books\\blazor book revision\\after backup\\blazor book rewrite\\blazor book rewrite\\c4\\apicallsexamples\\apicallsexamples\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\books\\blazor book revision\\after backup\\blazor book rewrite\\blazor book rewrite\\c4\\apicallsexamples\\apicallsexamples\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
+    },
+    {
+      "Id": "D:\\books\\blazor book revision\\after backup\\blazor book rewrite\\blazor book rewrite\\c4\\apicallsexamples\\apicallsexamples\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
+    },
+    {
+      "Id": "D:\\books\\blazor book revision\\after backup\\blazor book rewrite\\blazor book rewrite\\c4\\apicallsexamples\\apicallsexamples\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
+    },
+    {
+      "Id": "D:\\books\\blazor book revision\\after backup\\blazor book rewrite\\blazor book rewrite\\c4\\apicallsexamples\\apicallsexamples\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
+    },
+    {
+      "Id": "D:\\books\\blazor book revision\\after backup\\blazor book rewrite\\blazor book rewrite\\c4\\apicallsexamples\\apicallsexamples\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
+    },
+    {
+      "Id": "D:\\books\\blazor book revision\\after backup\\blazor book rewrite\\blazor book rewrite\\c4\\apicallsexamples\\apicallsexamples\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\books\\blazor book revision\\after backup\\blazor book rewrite\\blazor book rewrite\\c4\\apicallsexamples\\apicallsexamples\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "D:\\books\\blazor book revision\\after backup\\blazor book rewrite\\blazor book rewrite\\c4\\apicallsexamples\\apicallsexamples\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "D:\\books\\blazor book revision\\after backup\\blazor book rewrite\\blazor book rewrite\\c4\\apicallsexamples\\apicallsexamples\\wwwroot\\sample-data\\weather.json",
+      "PackagePath": "staticwebassets\\sample-data\\weather.json"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.apicallsexamples.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.apicallsexamples.props",
+      "PackagePath": "build\\apicallsexamples.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.apicallsexamples.props",
+      "PackagePath": "buildMultiTargeting\\apicallsexamples.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.apicallsexamples.props",
+      "PackagePath": "buildTransitive\\apicallsexamples.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
